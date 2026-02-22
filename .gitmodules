@@ -1,0 +1,3 @@
+[submodule "GameGraphSolver"]
+	path = GameGraphSolver
+	url = git@github.com:illustager/GameGraphSolver.git
